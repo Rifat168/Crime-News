@@ -1,0 +1,109 @@
+ .body{
+    background-color: #EB984E;
+ }
+ 
+ .header1{
+    background-color: #145A32 ;
+    padding: 10px 10px 10px 12px;
+ }
+
+.nav ul {
+    float: right;
+	padding: 80px 0 0 0;
+}
+
+.nav li {
+    display: inline-block;	
+    width: 120px;
+    font-size: 1.5em;
+}
+ 
+.nav a {
+   text-decoration: none;
+   color: white;
+}
+ 
+.nav a:hover{
+   color: yellow;
+}
+
+
+
+
+form li {
+list-style: none;
+}
+
+.admin_frm{
+	height:380px;
+    width: 420px;
+    margin: 5px 0 0 460px;
+    border: 2px solid #FBFCFC;
+    background-color: #5D6D7E;
+    padding: 50px 0 0 0;
+    border-radius: 20px;
+}
+
+ 
+.box_admin{
+    width: 300px;
+    border: 2px solid #F1C40F;
+    padding: 10px;
+    margin: 9px;
+    border-radius: 15px;
+}
+ 
+.admin_sub{
+	width: 90px;
+    padding: 10px;
+    background: white;
+    border-radius: 37px;
+    margin: 30px 0 0 120px;
+    border: 2px solid #49CCFF;
+    font-size: 17px;
+}
+ 
+ 
+ 
+ 
+.frm{
+    margin: 40px 0 0 450px;
+}
+
+.box{
+    width: 350px;
+    border: 2px solid #2E86C1;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 14px;
+}
+
+.sub{
+	width: 90px;
+    padding: 10px;
+    background:#48C9B0;
+    border-radius: 35px;
+    margin: 3px 0 0 150px;
+    border: 2px solid #48C9B0;
+    font-size: 19px;
+}
+
+.note{	       
+    color: red;
+    font-size: 20px;
+    margin: 10px 0 0 20px;
+}
+
+
+
+#img_div{
+  width: 80%;
+  margin: 15px auto;
+}
+
+#img_div:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
